@@ -1,4 +1,4 @@
-Academic studies on bike sharing and other mobility studies
+Academic studies on bike sharing and other mobility means.
 
 #### Surveys
 
