@@ -12,6 +12,8 @@ a scientometric review. _J. of Cleaner Production_ (213), 415-427.
 + Sarkar, A., Lathia, N., Mascolo, C. 2015. Comparing cities' cycling patterns using online shared bycicle maps.
 _Transportation_ (42), 541-559.
 
++ [Singhvi, D., Singhvi, S., Frazier, P., Henderson, S., O'Mahony, E., Shmoys, D., Woodard, D. 2015. Predicting bike usage for New York City's bike sharing system. _Computational Sustainability Papers fromt he 2015 AAAI Workshop_](https://arxiv.org/ftp/arxiv/papers/1808/1808.06606.pdf)
+
 + Oliveira, G., Sotomayor, J., Torchelsen, R., Silva, C. Comba, J. 2016. Visual analysis of bike-sharing systems.
 _Computer & Graphics_ (60, pp. 119-129.
 
@@ -31,5 +33,10 @@ overload in bycicle sharing stations. _Applied Sciences_ (8).
 + Couch, S., Smalley, H. 2019. Encouraging equitable bikeshare: implications of docked and dockless models for spatial
 equity. arXiv archive.  
 
++ [Sobolevsky, S., Levitskaya, E., Chan, H., Postle, M., Kontokosta, C. 2018. Impact of bike sharing in New York City. arXvi archive.](https://arxiv.org/ftp/arxiv/papers/1808/1808.06606.pdf)
+
 + Zamir, K., Bondarenko, I., Nasri, A., Brodie, S., Lucas, K. 2019. Comparative analysis of user behavior of dock-based vs.
 dockless bikeshare and scootershare in Washington, D.C. arXiv archive.
+
+
+
