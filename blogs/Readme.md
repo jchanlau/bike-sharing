@@ -12,7 +12,7 @@ Very useful, includes methodology and links to GitHub code repositories
 + 2018: [When Are Citi Bikes Faster Than Taxis in New York City?](https://toddwschneider.com/posts/taxi-vs-citi-bike-nyc/)
 
 + 2016: [A Tale of Twenty-Two Million Citi Bike Rides: Analyzing the NYC Bike Share System](https://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/)  
-  + Perhaps useful for animated geographical map: "I took Citi Bike trips from Wednesday, September 16, 2015, and created an animation using the Torque.js library from CartoDB, assuming that every trip followed the recommended cycling directions from Google Maps." The rest of the analysis is simpler.
+  + Perhaps useful for animated geographical map: "I took Citi Bike trips from Wednesday, September 16, 2015, and created an animation using the Torque.js library from CartoDB, assuming that every trip followed the recommended cycling directions from Google Maps." The rest of the analysis is simpler. _Note: Downloading Google map directions requires paid subscription :(_
 
 ## Slate  
 
